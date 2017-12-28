@@ -1,4 +1,5 @@
-var assert = require('assert');
+'use strict';
+let assert = require('assert');
 describe('test require', function() {
   describe('#indexOf()', function() {
     it('should return -1 when the value is not present', function() {
